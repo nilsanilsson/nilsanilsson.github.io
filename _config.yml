@@ -100,10 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  links:
-    - label: "Inspire HEP"
-      icon: "fas fa-fw fa-link"
-      url: "http://inspirehep.net/author/profile/N.A.Nilsson.1"
+  inspire          : "http://inspirehep.net/author/profile/N.A.Nilsson.1"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
