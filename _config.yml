@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Early-career researcher testing spacetime symmetries in gravity and cosmology"
   location         : "Warsaw, Poland"
-  employer         : "National Centre for Nuclear \nResearch (NCBJ)"
+  employer         : "National Centre for Nuclear Research"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "albin.nilsson@ncbj.gov.pl"
@@ -96,11 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nilsanilsson"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  inspire          : "inspirehep.net/sshshsh"
+  links:
+    - label: "Inspire HEP"
+      icon: "fas fa-fw fa-link"
+      url: "http://inspirehep.net/author/profile/N.A.Nilsson.1"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
