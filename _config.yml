@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Early-career researcher testing spacetime symmetries in gravity and cosmology"
   location         : "Warsaw, Poland"
-  employer         : "National Centre for Nuclear Research (NCBJ)"
+  employer         : "National Centre for Nuclear \nResearch (NCBJ)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "albin [dot] nilsson [at] ncbj.gov.pl"
+  email            : "albin.nilsson@ncbj.gov.pl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
