@@ -9,11 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+Highly analytical early-career researcher in physics. My main interests are Lorentz-violation phenomenology in cosmology and gravity, along with early-Universe physics and General Relativity.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, National Centre for Nuclear Research, Poland, 2020 (expected)
+    * Title of thesis: 'Aspects of Lorentz Violation in Gravity and Cosmology'
+    * Supervisor: Prof. dr. hab Mariusz, P. Dabrowski
+* MSc. in Engineering Physics, Lund Institute of Technology, Sweden, 2015
+    * Title of thesis: 'Astrophysical Probes of Models of Quantum Gravity'
+    * Supervisor: Prof. John Ellis
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Work experience
 ======
@@ -36,11 +50,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
