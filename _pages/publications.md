@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+{% if author.inspire %}
   You can also find my articles on <u><a href="{{author.inspire}}">my InspireHEP profile</a>.</u>
 {% endif %}
 
