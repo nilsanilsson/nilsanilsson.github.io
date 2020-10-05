@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an early-career researcher in the fourth year of my PhD at the National Centre for Nuclear Research in Warsaw, Poland. My research interests include testing spacetime symmetries in gravity and cosmology, focusing in particular on Lorentz-violation phenomenology.
+Highly analytical early-career researcher in physics with teaching experience. My main research interests
+are phenomenology of new physics in gravity and cosmology, in particular bridging theory and
+observations, along with early Universe physics and General Relativity.
 
 Interests
 ======

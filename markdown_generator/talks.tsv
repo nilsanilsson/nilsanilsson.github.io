@@ -1,5 +1,13 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Aspects of Lorentz Violation in Gravity & Cosmology	Invited talk	paris1	Paris Observatory	2019-10-17	Paris, France		
+Successes and Problems of the ΛCDM Model	Invited talk	erau1	Embry-Riddle Aeronautical University	2019-04-04	Prescott, AZ, USA		
+Quantum Gravity, Lorentz Violation, and Rainbows	Invited talk	szcz1	University of Szczecin	2016-12-06	Szczecin, Poland		
+Ongoing Efforts to Constrain Lorentz Symmetry Violation in Gravity	Conference talk	krakow1	Spring Workshop on Gravity and Cosmology	2020-05-26	Krakow, Poland		
+Antisymmetric Tensors in Friedmann Cosmology	Conference talk	szcz2	6th Conference of the Polish Society of Relativity	2019-09-26	Szczecin, Poland		
+A 3+1 Decomposition of the Minimal SME Gravitational Sector	Poster presentation	cpt1	Eighth Meeting on CPT and Lorentz Symmetry	2019-05-15	Bloomington, IN, USA		
+Hořava-Lifshitz Gravity in Light of New Data	Poster presentation	vanc1	Testing Gravity 2019	2019-01-24	Vancouver, Canada		
+Cosmological Evolution in Lorentz Breaking Gravity	Poster presentation	cpt2	IUCSS Summer School on the Lorentz and CPT violating SME	2018-06-21	Bloomington, IN, USA		
+Toward Quantum Gravity Phenomenology	Conference talk	waw1	Singularities in General Relativity and their Quantum Fate	2018-05-25	Warsaw, Poland		
+Probing Hořava-Lifshitz Cosmology	Conference talk	spring1	SpringCosmo18	2018-05-21	Zeuten, Germany		
+Searching for Lorentz Invariance Violation in Theories with Modified Dispersion Relations	Conference talk	azores1	3rd Azores School on Observational Cosmology	2017-08-30	Azores, Portugal		
+Theories with Modified Dispersion Relations	Conference talk	spring2	SpringCosmofun 17	2017-05-20	Miȩdzyzdroje, Poland		
