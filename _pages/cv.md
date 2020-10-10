@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-#<embed src="https://nilsanilsson.github.io/files/CV_092020.pdf" type="application/pdf" />
-
 Education
 ======
 * Ph.D in Physics, National Centre for Nuclear Research, Poland, September 2020
