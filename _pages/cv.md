@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://nilsanilsson.github.io/files/CV_092020.pdf" type="application/pdf" />
+
 Profile
 ======
 Highly analytical early-career researcher in physics with teaching experience. My main research interests
