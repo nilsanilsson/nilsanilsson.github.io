@@ -13,4 +13,4 @@ observations. I am also interested in early-Universe physics and General Relativ
 
 Interests
 ======
-In my free time, I enjoy board games, beer, and rock climbing.
+In my free time, I enjoy board games, running, and rock climbing.
