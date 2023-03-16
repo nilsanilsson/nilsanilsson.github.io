@@ -1,8 +1,12 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2021-08-18	Tests of Standard Cosmology in Hořava Gravity	arXiv		Nils A. Nilsson, Mu-In Park, “Tests of Standard Cosmology in Hořava Gravity”	Horava_tests	https://arxiv.org/pdf/2108.07986.pdf
-2020-09-02	A 3+1 Formulation of the Standard-Model Extension Gravity Sector	Physical Review D		Kellie O'Neal-Ault, Quentin G. Bailey, Nils A. Nilsson, “A 3+1 Formulation of the Standard-Model Extension Gravity Sector”	SME_Ham	https://arxiv.org/pdf/2009.00949.pdf
-2019-10-31	Preferred-frame Effects, the H_0 Tension, and Probes of Hořava-Lifshitz Gravity	Europhysical Journal Plus		Nils A. Nilsson, “Preferred-frame Effects, the H_0 Tension, and Probes of Hořava-Lifshitz Gravity” 	H0tension1	https://arxiv.org/pdf/1910.14414.pdf
-2019-05-24	A 3+1 Decomposition of the Minimal Standard-Model Extension Gravitational Sector	arXiv	Proceedings, 8th Meeting on CPT and Lorentz Symmetry (CPT'19)	"Nils A. Nilsson, Kellie O'Neal Ault, Quentin G. Bailey (2019). "" A 3+1 Decomposition of the Minimal Standard-Model Extension Gravitational Sector"""	3+1_SME	http://arxiv.org/pdf/1905.10414.pdf
-2019-01-01	Hořava-Lifshitz cosmology in light of new data	Physics of the Dark Universe		"Nils A. Nilsson, Ewa Czuchry (2019). ""Hořava-Lifshitz cosmology in light of new data"" <i>Phys. Dark Univ.</i>. 23 (2019) 100253."	horava_newdata	http://arxiv.org/pdf/1803.03615.pdf
-2018-01-01	Energy Scale of Lorentz Violation in Rainbow Gravity	Physics of the Dark Universe		"Nils A. Nilsson, Mariusz, P. Dabrowski (2018). ""Energy Scale of Lorentz Violation in Rainbow Gravity"" <i>Phys. Dark Univ.</i>. 18 (2017) 115-122."	Rainbow	http://arxiv.org/pdf/1701.00533.pdf
-2014-01-31	The CTA Sensitivity to Lorentz-Violating Effects on the Gamma-Ray Horizon	Journal of Cosmology and Astroparticle Physics		"Malcolm Fairbairn, Nils A. Nilsson, John Ellis, Jim Hinton, Richard White. (2014) ""The CTA Sensitivity to Lorentz-Violating Effects on the Gamma-Ray Horizon "" <i>JCAP</i>.1406 (2014) 005."	CTA	http://arxiv.org/pdf/1401.8178.pdf
+2022-12-15	A new test of dynamical dark energy models and cosmic tensions in Horava gravity	Monthly Notices of the Royal Astronomical Society		See InspireHEP	Horavatests	https://arxiv.org/pdf/2212.07683
+2022-09-30	On the dynamical generation and decay of cosmological anisotropies	arXiv		See InspireHEP	Fftilde	https://arxiv.org/pdf/2209.15225
+2022-06-16	SME Gravity in the early Universe	CPT’22	Proceedings, 9th Meeting on CPT and Lorentz Symmetry (CPT'22)	See InspireHEP	CPT22	https://arxiv.org/pdf/2206.07925
+2022-05-01	Explicit spacetime-symmetry breaking and the dynamics of primordial fields	Physical Review D		See InspireHEP	SME_PGW	https://arxiv.org/pdf/2205.00496
+2021-08-18	Tests of Standard Cosmology in Hořava Gravity	Europhysical Journal C		See InspireHEP	Horava_tests	https://arxiv.org/pdf/2108.07986.pdf
+2020-09-02	A 3+1 Formulation of the Standard-Model Extension Gravity Sector	Physical Review D		See InspireHEP	SME_Ham	https://arxiv.org/pdf/2009.00949.pdf
+2019-10-31	Preferred-frame Effects, the H_0 Tension, and Probes of Hořava-Lifshitz Gravity	Europhysical Journal Plus		See InspireHEP	H0tension1	https://arxiv.org/pdf/1910.14414.pdf
+2019-05-24	A 3+1 Decomposition of the Minimal Standard-Model Extension Gravitational Sector	arXiv	Proceedings, 8th Meeting on CPT and Lorentz Symmetry (CPT'19)	See InspireHEP	3+1_SME	http://arxiv.org/pdf/1905.10414.pdf
+2019-01-01	Hořava-Lifshitz cosmology in light of new data	Physics of the Dark Universe		See InspireHEP	horava_newdata	http://arxiv.org/pdf/1803.03615.pdf
+2018-01-01	Energy Scale of Lorentz Violation in Rainbow Gravity	Physics of the Dark Universe		See InspireHEP	Rainbow	http://arxiv.org/pdf/1701.00533.pdf
+2014-01-31	The CTA Sensitivity to Lorentz-Violating Effects on the Gamma-Ray Horizon	Journal of Cosmology and Astroparticle Physics		See InspireHEP	CTA	http://arxiv.org/pdf/1401.8178.pdf
