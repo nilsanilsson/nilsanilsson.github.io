@@ -27,7 +27,11 @@ Publications
 
 Professional Experience
 ======
-* September 2020 - Present: Duty Technician
+* December 2022 - Present: CNES Postdoctoral Fellow
+  * SYRTE, Observatoire de Paris, Paris, France
+* August 2021 - October 2022: Postdoctoral Researcher
+  * Centre for Quantum Spacetime, Sogang University, Seoul, Korea
+* September 2020 - July 2021: Duty Technician
   * Rutherford Appleton Laboratory, Harwell, UK
 
 * Autumn 2019: Teaching Assistant

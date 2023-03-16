@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral researcher at the Center for Quantum Spacetime in Seoul, Korea. My main research interests
+CNES postdoctoral fellow working at Observatoire de Paris in Paris, France. My main research interests
 include gravity theory and possible consequences of Lorentz violation, in particular bridging theory and
 observations. I am also interested in early-Universe physics and General Relativity.
 
