@@ -8,7 +8,7 @@ date: 2019-09-20
 location: "Warsaw, Poland"
 ---
 
-Teaching assistant in a one-semester course in electrodynamics, using the book by Griffiths.
+Teaching assistant test in a one-semester course in electrodynamics, using the book by Griffiths.
 
 Heading 1
 ======
