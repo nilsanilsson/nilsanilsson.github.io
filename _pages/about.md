@@ -19,7 +19,7 @@ Career timeline
 :	CNES Postdoctoral Fellow @ SYRTE, Observatoire de Paris, France
 
 2021 - 2022
-:	Postdoc @ at the Centre for Quantum Spacetime, Sogang University, Seoul, Korea
+:	Postdoc @ the Centre for Quantum Spacetime, Sogang University, Seoul, Korea
 
 2020
 :	Ph.D. in Physical Sciences @ the National Centre for Nuclear Research, Warsaw, Poland
