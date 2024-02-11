@@ -9,7 +9,7 @@ redirect_from:
 ---
 CNES postdoctoral fellow working at Observatoire de Paris in France. My main research interests include theory and phenomenology of spacetime-symmetry breaking in gravity and cosmology, in particular bridging theory and observations. I am also interested in early-Universe physics and cosmic tensions. At Observatoire de Paris I focus on Post-Newtonian theory and the generation of gravitational waves by compact sources.
 
-* I am co-chair of the Early-Career Scientist working group of the [LISA](https://www.elisascience.org/) (Light Interferometer Space Antenna) consortium, and I contribute to the Fundamental Physics and Cosmology working groups.
+* I am co-chair of the Early-Career Scientist working group of the [LISA](https://www.elisascience.org/) (Light Interferometer Space Antenna) consortium, where I also contribute to the Fundamental Physics and Cosmology working groups.
 
 * I am a member of the Career Opportunities office of [GWECS](https://gwecs.org/) (Gravitational-Wave Early Career Scientists).
 
