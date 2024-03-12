@@ -19,8 +19,8 @@ Memberships
 
 Selected Papers
 ======
-* <em>Reexamining aspects of spacetime-symmetry breaking with CMB polarization</em>
-:	<u>Nils A. Nilsson</u> and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 1, 015032**, [arXiv](https://arxiv.org/abs/2311.16368).
+<em>Reexamining aspects of spacetime-symmetry breaking with CMB polarization</em>
+	- <u>Nils A. Nilsson</u> and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 1, 015032**, [arXiv](https://arxiv.org/abs/2311.16368).
 
 * <em>Spacetime symmetry breaking effects in gravitational-wave generation at the first post-Newtonian order</em>
 :	 <u>Nils A. Nilsson</u> and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 2, 024035**, [arXiv](https://arxiv.org/abs/2307.13302)
