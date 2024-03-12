@@ -19,20 +19,20 @@ Memberships
 
 Selected Papers
 ======
-<em>Reexamining aspects of spacetime-symmetry breaking with CMB polarization</em>
+* <em>Reexamining aspects of spacetime-symmetry breaking with CMB polarization</em>
 	- <u>Nils A. Nilsson</u> and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 1, 015032**, [arXiv](https://arxiv.org/abs/2311.16368).
 
 * <em>Spacetime symmetry breaking effects in gravitational-wave generation at the first post-Newtonian order</em>
-:	 <u>Nils A. Nilsson</u> and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 2, 024035**, [arXiv](https://arxiv.org/abs/2307.13302)
+	- <u>Nils A. Nilsson</u> and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 2, 024035**, [arXiv](https://arxiv.org/abs/2307.13302)
 
 * <em>Explicit spacetime-symmetry breaking and the dynamics of primordial fields</em>
-:	<u>Nils A. Nilsson</u>, **Phys.Rev.D 106 (2022) 10, 104036**, [arXiv](https://arxiv.org/abs/2205.00496)
+	- <u>Nils A. Nilsson</u>, **Phys.Rev.D 106 (2022) 10, 104036**, [arXiv](https://arxiv.org/abs/2205.00496)
 
 * <em>3+1 formulation of the standard model extension gravity sector</em>
-:	 Kellie O'Neal-Ault, Quentin G. Bailey, <u>Nils A. Nilsson</u>, **Phys.Rev.D 103 (2021) 4, 044010**, [arXiv](https://arxiv.org/abs/2009.00949)
+	- Kellie O'Neal-Ault, Quentin G. Bailey, <u>Nils A. Nilsson</u>, **Phys.Rev.D 103 (2021) 4, 044010**, [arXiv](https://arxiv.org/abs/2009.00949)
 
 * <em>Hořava–Lifshitz cosmology in light of new data</em>
-:	 <u>Nils A. Nilsson</u> and Ewa Czuchry, **Phys.Dark Univ. 23 (2019) 100253**, [arXiv](https://arxiv.org/abs/1803.03615)
+	- <u>Nils A. Nilsson</u> and Ewa Czuchry, **Phys.Dark Univ. 23 (2019) 100253**, [arXiv](https://arxiv.org/abs/1803.03615)
 
 
 
