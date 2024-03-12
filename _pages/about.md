@@ -17,20 +17,20 @@ Memberships
 * I am a member of the Career Opportunities office of [GWECS](https://gwecs.org/) (Gravitational-Wave Early Career Scientists).
 
 
-Research Highlights
-======
-
 Selected Papers
 ======
 * _Reexamining aspects of spacetime-symmetry breaking with CMB polarization_, **Nils A. Nilsson** and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 1, 015032**, [arXiv](https://arxiv.org/abs/2311.16368).
 
 * _Spacetime symmetry breaking effects in gravitational-wave generation at the first post-Newtonian order_, **Nils A. Nilsson** and Christophe Le Poncin-Lafitte, **Phys.Rev.D 109 (2024) 2, 024035**, [arXiv](https://arxiv.org/abs/2307.13302)
 
-* _Explicit spacetime-symmetry breaking and the dynamics of primordial fields_, **Nils A. Nilsson**, **Phys.Rev.D 106 (2022) 10, 104036**, [arXiv](https://arxiv.org/abs/2205.00496)
+* _Explicit spacetime-symmetry breaking and the dynamics of primordial fields_
+:	**Nils A. Nilsson**, **Phys.Rev.D 106 (2022) 10, 104036**, [arXiv](https://arxiv.org/abs/2205.00496)
 
-* _3+1 formulation of the standard model extension gravity sector_, Kellie O'Neal-Ault, Quentin G. Bailey, **Nils A. Nilsson**, **Phys.Rev.D 103 (2021) 4, 044010**, [arXiv](https://arxiv.org/abs/2009.00949)
+* _3+1 formulation of the standard model extension gravity sector_
+:	 Kellie O'Neal-Ault, Quentin G. Bailey, **Nils A. Nilsson**, **Phys.Rev.D 103 (2021) 4, 044010**, [arXiv](https://arxiv.org/abs/2009.00949)
 
-* _Hořava–Lifshitz cosmology in light of new data_, **Nils A. Nilsson** and Ewa Czuchry, **Phys.Dark Univ. 23 (2019) 100253**, [arXiv](https://arxiv.org/abs/1803.03615)
+* _Hořava–Lifshitz cosmology in light of new data_
+:	 **Nils A. Nilsson** and Ewa Czuchry, **Phys.Dark Univ. 23 (2019) 100253**, [arXiv](https://arxiv.org/abs/1803.03615)
 
 
 
