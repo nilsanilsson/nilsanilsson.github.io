@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a CNES postdoctoral fellow working at Observatoire de Paris in France.
-My main research interests include theory and phenomenology of spacetime-symmetry breaking in gravity and cosmology, which I explore using effective-field theory techniques. I am also interested in early-Universe physics, cosmic tensions, and the mathematics of group theory. At Observatoire de Paris I focus on Post-Newtonian theory and the generation of gravitational waves by compact sources in the presence of spacetime-symmetry breaking.
+I am a Senior Researcher at the IBS Center for Theoretical Physics of the Universe (Cosmology and Gravity group).
+My main research interests include the **theory and phenomenology of spacetime-symmetry breaking in gravity and cosmology**, which I explore using effective-field theory techniques. I am also interested in early-Universe physics, cosmic tensions, and the mathematics of group theory. At Observatoire de Paris I focus on Post-Newtonian theory and the generation of gravitational waves by compact sources in the presence of spacetime-symmetry breaking.
 
 
 Memberships
