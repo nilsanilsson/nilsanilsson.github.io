@@ -29,7 +29,10 @@ Selected Papers
 
 Career timeline
 ======
-2022 - Present
+2024 - Present
+:	Senior Researcher @ CTPU-CGA, Institute for Basics Science, Daejeon, Korea
+
+2022 - 2024
 :	CNES Postdoctoral Fellow @ SYRTE, Observatoire de Paris, France
 
 2021 - 2022
