@@ -19,7 +19,7 @@ Memberships
 ======
 * I am co-chair of the Early-Career Scientist working group of the [LISA](https://www.elisascience.org/) (Light Interferometer Space Antenna) consortium, where I also contribute to the Fundamental Physics and Cosmology working groups.
 
-* I am a member of the Career Opportunities office of [GWECS](https://gwecs.org/) (Gravitational-Wave Early Career Scientists).
+* I am on the council of [GWECS](https://gwecs.org/) (Gravitational-Wave Early Career Scientists), where I am also a member of the Science & Research and Career Opportunities offices.
 
 
 Selected Papers
