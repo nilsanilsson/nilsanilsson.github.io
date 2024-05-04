@@ -33,7 +33,7 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
-	  <li><b>30 April 2024:</b> My paper on dynamical dark energy and spacetime-symmetry breaking was accepted in Physics of the Dark Universe. A preprint version can be accessed [here]	(https://arxiv.org/pdf/2307.10290)</li>
+	  <li><b>30 April 2024:</b> My paper on dynamical dark energy and spacetime-symmetry breaking was accepted in Physics of the Dark Universe. A preprint version can be accessed <a href="https://arxiv.org/pdf/2307.10290">here</a></li>
 	  <li><b>16 April 2024:</b> I started my new position as Senior Researcher at IBS-CTPU CGA in Daejeon, Korea!</li>
 	</ul>
     </div>
