@@ -24,7 +24,7 @@ My main research interests include the **theory and phenomenology of spacetime-s
         margin: 0px auto;
         width: 456px;
         padding: 5px;
-        border-radius: 10px;
+        border-radius: 5px;
       }
     </style>
   </head>
