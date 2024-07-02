@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Researcher at the IBS Center for Theoretical Physics of the Universe ([Cosmology and Gravity group](https://ibs.re.kr/ctpu-cga/)) in Daejeon, Korea.
+I am a Senior Researcher at the IBS Center for Theoretical Physics of the Universe [Cosmology and Gravity group](https://ibs.re.kr/ctpu-cga/) in Daejeon, Korea.
 My main research interests include the **theory and phenomenology of spacetime-symmetry breaking in gravity and cosmology**, which I explore using effective-field theory techniques. I am also interested in early-Universe physics, cosmic tensions, and the mathematics of group theory. One of my current long-term projects focuses on Post-Newtonian theory and the generation of gravitational waves by compact sources in the presence of spacetime-symmetry breaking.
 
 <html lang="en">
