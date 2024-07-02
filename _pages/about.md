@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Researcher at the IBS Center for Theoretical Physics of the Universe (Cosmology and Gravity group) in Daejeon, Korea.
+I am a Senior Researcher at the IBS Center for Theoretical Physics of the Universe ([Cosmology and Gravity group](https://ibs.re.kr/ctpu-cga/)) in Daejeon, Korea.
 My main research interests include the **theory and phenomenology of spacetime-symmetry breaking in gravity and cosmology**, which I explore using effective-field theory techniques. I am also interested in early-Universe physics, cosmic tensions, and the mathematics of group theory. One of my current long-term projects focuses on Post-Newtonian theory and the generation of gravitational waves by compact sources in the presence of spacetime-symmetry breaking.
 
 <html lang="en">
@@ -33,6 +33,7 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
+	  <li><b>7-12 July 2024:</b>I will discuss some recent results and represent LECS at the [LISA Symposium 2024](https://www.lisasymposium2024.ie/) in Dublin, Ireland</li>
 	  <li><b>30 April 2024:</b> My paper on dynamical dark energy and spacetime-symmetry breaking was accepted in Physics of the Dark Universe. A preprint version can be accessed <a href="https://arxiv.org/pdf/2307.10290">here</a></li>
 	  <li><b>16 April 2024:</b> I started my new position as Senior Researcher at IBS-CTPU CGA in Daejeon, Korea!</li>
 	</ul>
