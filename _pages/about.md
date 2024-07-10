@@ -33,8 +33,8 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
-	  <li><b>9 July 2024:</b>My paper on no-go results in gravity with explicit spacetime-symmetry breaking appeared on [arXiv](https://arxiv.org/pdf/2407.04918)</li>
-	  <li><b>7-12 July 2024:</b>I will discuss some recent results and represent LECS at the [LISA Symposium 2024](https://www.lisasymposium2024.ie/) in Dublin, Ireland</li>
+	  <li><b>9 July 2024:</b>My paper on no-go results in gravity with explicit spacetime-symmetry breaking appeared on <a href="https://arxiv.org/pdf/2407.04918">arXiv</a></li>
+	  <li><b>7-12 July 2024:</b>I will discuss some recent results and represent LECS at the <a href="https://www.lisasymposium2024.ie/">LISA Symposium 2024</a> in Dublin, Ireland</li>
 	  <li><b>30 April 2024:</b> My paper on dynamical dark energy and spacetime-symmetry breaking was accepted in Physics of the Dark Universe. A preprint version can be accessed <a href="https://arxiv.org/pdf/2307.10290">here</a></li>
 	</ul>
     </div>
