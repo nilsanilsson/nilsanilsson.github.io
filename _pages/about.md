@@ -33,9 +33,9 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
+	  <li><b>5-8 October 2024:</b> I participated in the Young Leaders program at the <a href="https://www.stsforum.org/kyoto2024/">STS Forum 2024</a> in Kyoto, Japan</li>
+	  <li><b>25 September 2024:</b>My paper on no-go results in gravity with explicit spacetime-symmetry breaking was accepted in Physical Review D. A preprint version can be accessed <a href="https://arxiv.org/pdf/2407.04918">here</a></li>
 	  <li><b>31 July 2024:</b> My paper on cosmological anisotropies and non-abelian gauge fields was accepted in Physics of the Dark Universe. A preprint version can be accessed <a href="https://arxiv.org/pdf/2312.14513">here</a></li>
-	  <li><b>9 July 2024:</b>My paper on no-go results in gravity with explicit spacetime-symmetry breaking appeared on <a href="https://arxiv.org/pdf/2407.04918">arXiv</a></li>
-	  <li><b>7-12 July 2024:</b>I will discuss some recent results and represent LECS at the <a href="https://www.lisasymposium2024.ie/">LISA Symposium 2024</a> in Dublin, Ireland</li>
 	</ul>
     </div>
   </body>
