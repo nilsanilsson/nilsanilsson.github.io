@@ -33,7 +33,7 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
-	  <li><b>15 October 2024:</b> I delivered an invited talk on cosmic birefringence at the Workshop on Cosmic Indicators of Dark Matter 2024 at Tohoku University in Japan<\li>
+	  <li><b>15 October 2024:</b> I delivered an invited talk on cosmic birefringence at the Workshop on Cosmic Indicators of Dark Matter 2024 at Tohoku University in Japan</li>
 	  <li><b>5-8 October 2024:</b> I participated in the Young Leaders program at the <a href="https://www.stsforum.org/kyoto2024/">STS Forum 2024</a> in Kyoto, Japan</li>
 	  <li><b>25 September 2024:</b>My paper on no-go results in gravity with explicit spacetime-symmetry breaking was accepted in Physical Review D. A preprint version can be accessed <a href="https://arxiv.org/pdf/2407.04918">here</a></li>
 	</ul>
