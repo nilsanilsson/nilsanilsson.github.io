@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Researcher at the IBS Center for Theoretical Physics of the Universe [Cosmology and Gravity group](https://ibs.re.kr/ctpu-cga/) in Daejeon, Korea.
+I work as Senior Researcher at the IBS Center for Theoretical Physics of the Universe [Cosmology and Gravity group](https://ibs.re.kr/ctpu-cga/) in Daejeon, Korea.
 My main research interests include the **theory and phenomenology of spacetime-symmetry breaking in gravity and cosmology**, which I explore using effective-field theory techniques. I am also interested in early-Universe physics, cosmic tensions, and the mathematics of group theory. One of my current long-term projects focuses on Post-Newtonian theory and the generation of gravitational waves by compact sources in the presence of spacetime-symmetry breaking.
 
 <html lang="en">
@@ -33,9 +33,9 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
-	  <li><b>9-20 December 2024:</b> I am visiting the <a href="https://strong-gr.com/">Strong Group</a> in at the Nield Bohr Institute in Copenhagen, Denmark</li>
+	<li><b>17-19 March 2025:</b> I will deliver a lecture series on the xAct suite for Mathematica. The workshop website can be found <a href="https://indico.ibs.re.kr/event/866/">here</a> </li>
+	  <li><b>9-20 December 2024:</b> I visited the <a href="https://strong-gr.com/">Strong Group</a> in at the Niels Bohr Institute in Copenhagen, Denmark</li>
 	  <li><b>27 November 2024:</b>My paper on black-hole solutions in gravity with explicit spacetime-symmetry breaking was submitted to arXiv, and can be accessed <a href="https://arxiv.org/abs/2411.18255">here</a></li>
-	  <li><b>15 October 2024:</b> I delivered an invited talk on cosmic birefringence at the Workshop on Cosmic Indicators of Dark Matter 2024 at Tohoku University in Japan</li>
 	</ul>
     </div>
   </body>
