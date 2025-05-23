@@ -33,7 +33,7 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <div class="boxed">
 	<b>News</b>
 	<ul>
-     <li><b>12-20 April 2025:</b>I am delivering an invited talk at the <a href="https://arxiv.org/abs/2411.18255">Tenth Meeting on CPT and Lorentz Symmetry</a> at Indiana University in Bloomington, USA</li>
+     <li><b>12-20 April 2025:</b>I delivered an invited talk at the <a href="https://iucss.sitehost.iu.edu/cpt25/">Tenth Meeting on CPT and Lorentz Symmetry</a> at Indiana University in Bloomington, USA</li>
 	  <li><b>9-20 December 2024:</b> I am visiting the <a href="https://strong-gr.com/">Strong Group</a> in at the Nield Bohr Institute in Copenhagen, Denmark</li>
 	  <li><b>27 November 2024:</b>My paper on black-hole solutions in gravity with explicit spacetime-symmetry breaking was submitted to arXiv, and can be accessed <a href="https://arxiv.org/abs/2411.18255">here</a></li>
 	</ul>
