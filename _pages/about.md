@@ -36,11 +36,13 @@ My main research interests include the **theory and phenomenology of spacetime-s
     <li><b>2-8 September 2025:</b>I gave a keynote talk at the <a href="https://indico.ibs.re.kr/event/871/"> Workshop on Tensions in Cosmology</a> at Corfu Summer Institute in Corfu, Greece</li>
     <li><b>7-11 July 2025:</b>I gave an invited talk at the <a href="https://indico.ibs.re.kr/event/871/">
 International Symposium on Cosmology and Particle Astrophysics: CosPA 2025</a> at IBS in Daejeon, Korea</li>
-     <li><b>12-20 April 2025:</b>I gave an invited talk at the <a href="https://iucss.sitehost.iu.edu/cpt25/">Tenth Meeting on CPT and Lorentz Symmetry</a> at Indiana University in Bloomington, USA</li>
+    <li><b>10 June 2025:</b>My paper on gravitational-wave generation in the presence of spacetime-symmetry breaking is available on arXiv <a href="https://arxiv.org/pdf/2506.08859">here</a></li>
 	</ul>
     </div>
   </body>
 </html>
+
+2506.08859
 
 
 Memberships
